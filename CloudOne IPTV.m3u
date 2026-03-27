@@ -9,7 +9,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 #EXTINF:-1 group-title="BANGLA NEWS", CHANNEL-24-HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 #EXTINF:-1 group-title="BANGLA NEWS", DBC-NEWS-HD
-https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
+http://tvn3.chowdhury-shaheb.com/dbc/index.m3u8
 #EXTINF:-1group-title="BANGLA NEWS" ,INDEPENDENT-TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 #EXTINF:-1 group-title="BANGLA NEWS" ,EKHON-TV-HD
@@ -113,7 +113,11 @@ http://c1live.net:8080/ZEE-BANGLA-CINEMA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="INDIAN MOVIE"  ,COLORS-CINEPLEX
 http://c1live.net:8080/COLORS-CINEPLEX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="INDIAN MOVIE" , STAR-GOLD-HD
-http://c1live.net:8080/STAR-GOLD-HD/tracks-v1a1/mono.m3u8
+http://103.229.254.25:7001/play/a0dd/index.m3u8
+#EXTINF:-1 group-title="INDIAN MOVIE" , STAR-GOLD2-HD
+http://103.229.254.25:7001/play/a0d0/index.m3u8
+#EXTINF:-1 group-title="INDIAN MOVIE" , STAR-GOLD SELECT
+http://103.229.254.25:7001/play/a032/index.m3u8
 #EXTINF:-1 group-title="INDIAN MOVIE" ,B4U Movies
 https://cdnb4u.wiseplayout.com/B4U_Movies/HD1080/HD1080.m3u8
 #EXTINF:-1 group-title="INDIAN MOVIE" ,Bollywood Movies
@@ -172,7 +176,8 @@ https://d3u3pfhhvuad9k.cloudfront.net/playlist/amg00793-bbcstudios-bbcearta-lgus
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-tcl/playlist.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY",LUXELL
 https://nomawnoijl.gpcdn.net/akash/luxell/playlist.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY", DISCOVERY-LIFE
+#EXTINF:-1 group-title="DOCUMENTARY", DISCOVERY
+http://stvlive.net:8080/discovery/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY",HISTOIRE HD
 http://151.80.18.177:86/Histoire/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY",TRUE Stories
@@ -189,6 +194,8 @@ https://wildearth-plex.amagi.tv/master.m3u8
 https://nomawnoijl.gpcdn.net/akash/intelligence/playlist.m3u8
 #EXTINF:-1 group-title="HOLLYWOOD MOVIE", STAR-MOVIES-HD
 http://c1live.net:8080/STAR-MOVIES-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="HOLLYWOOD MOVIE", STAR-WORLD
+https://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
 #EXTINF:-1 group-title="HOLLYWOOD MOVIE",RTL9 HD
 http://151.80.18.177:86/RTL9/index.m3u8
 #EXTINF:-1 group-title="HOLLYWOOD MOVIE",Movies Thriller
