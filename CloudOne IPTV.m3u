@@ -6,12 +6,10 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 #EXTINF:-1 group-title="BANGLA NEWS", EKATTOR-TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
-#EXTINF:-1 group-title="BANGLA NEWS", CHANNEL-2
+#EXTINF:-1 group-title="BANGLA NEWS", CHANNEL-24
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 #EXTINF:-1 group-title="BANGLA NEWS", DBC-NEWS
 https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
-#EXTINF:-1 group-title="BANGLA NEWS", DBC-NEWS
-http://tvn3.chowdhury-shaheb.com/dbc/index.m3u8
 #EXTINF:-1group-title="BANGLA NEWS" ,INDEPENDENT-TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 #EXTINF:-1 group-title="BANGLA NEWS" ,EKHON-TV
