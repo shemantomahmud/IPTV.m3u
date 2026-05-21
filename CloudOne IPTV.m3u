@@ -1,6 +1,8 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="BANGLA NEWS", JAMUNA-TV
+https://edge2.roarzone.net:8447/roarzone/edge5/jamuna-tv/index.m3u8?token=
+#EXTINF:-1 group-title="BANGLA NEWS", JAMUNA-TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 #EXTINF:-1 group-title="BANGLA NEWS", SOMOY-TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
@@ -13,7 +15,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
 #EXTINF:-1group-title="BANGLA NEWS" ,INDEPENDENT-TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 #EXTINF:-1 group-title="BANGLA NEWS" ,EKHON-TV
-http://c1live.net:8080/EKHON-TV-HD/tracks-v1a1/mono.m3u8
+https://edge2.roarzone.net:8447/roarzone/edge5/ekhon-tv/index.m3u8?token=
 #EXTINF:-1 group-title="BANGLA NEWS", NEWS-24
 https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
 #EXTINF:-1 group-title="BANGLA NEWS",ATN-NEWS
