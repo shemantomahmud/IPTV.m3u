@@ -33,7 +33,7 @@ https://tvsen6.aynaott.com/satv/index.m3u8
 #EXTINF:-1 group-title="BANGLA" ,GAZI-TV
 https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8
 #EXTINF:-1 group-title="BANGLA" ,BANGLAVISION
-https://tvsen5.aynaott.com/banglavision/index.m3u8?e=1779242949&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=
+https://edge2.roarzone.net:8447/roarzone/edge5/bangla-vision/index.m3u8?token=
 103.175.242.10:8080/banglavision/index.m3u8
 #EXTINF:-1 group-title="BANGLA", ATN-BANGLA
 https://tvsen5.aynaott.com/atnbangla/index.m3u8
@@ -70,6 +70,8 @@ https://tvsen6.aynaott.com/mytv/index.m3u8
 https://tvsen6.aynaott.com/boishakhitv/index.m3u8
 #EXTINF:-1 group-title="BANGLA" ,BIJOY-TV
 https://tvsen6.aynaott.com/bijoytv/index.m3u8
+#EXTINF:-1 group-title="BANGLA" ,GLOBAL-TV
+https://tvsen6.aynaott.com/globaltvhd/index.m3u8
 #EXTINF:-1 group-title="BANGLA" ,AKASH-BANGLA
 http://c1live.net:8080/AKASH-BANGLA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="BANGLA" ,AMAR BANGLA
@@ -142,6 +144,8 @@ https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
 https://cdn-2.pishow.tv/live/227/master.m3u8
 #EXTINF:-1 group-title="INDIAN MOVIE",The Movie Club
 https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/SBUM/RunnTV/BollyFlix_IN/BollyFlix_IN.m3u8
+#EXTINF:-1 group-title="INDIAN MOVIE",9X JALWA
+https://tvsen6.aynaott.com/9xjalwa/index.m3u8
 #EXTINF:-1 group-title="INDIAN",SONY-TV
 http://217.20.112.199/sethd/index.m3u8
 #EXTINF:-1 group-title="INDIAN", STAR-PLUS-HD
@@ -169,9 +173,11 @@ https://fl1.moveonjoy.com/Axs_TV/index.m3u8
 #EXTINF:-1 group-title="MUSIC",SANGEET BANGLA
 https://cdn-4.pishow.tv/live/1143/master.m3u8
 #EXTINF:-1 group-title="MUSIC" ,MTV
-http://c1live.net:8080/MTV/tracks-v1a1/mono.m3u8
+https://tvsen6.aynaott.com/mtv/index.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY",TLC HD
+https://tvsen6.aynaott.com/tlc_hd/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY",NAT-GEO HD
-http://151.80.18.177:86/National_Geo_HD/index.m3u8
+https://tvsen6.aynaott.com/natgeo/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY",NAT-GEO WILD
 http://143.244.60.30/Nat_Geo_Wild/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY",BBC Earth 
@@ -182,6 +188,8 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-tcl/
 https://nomawnoijl.gpcdn.net/akash/luxell/playlist.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY", DISCOVERY
 http://stvlive.net:8080/discovery/index.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY", DISCOVERY FAMILY
+https://tvsen5.aynaott.com/discoveryfamily/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY",HISTOIRE HD
 http://151.80.18.177:86/Histoire/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY",TRUE Stories
