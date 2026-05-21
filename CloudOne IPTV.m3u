@@ -2,24 +2,22 @@
 
 #EXTINF:-1 group-title="BANGLA NEWS", JAMUNA-TV
 https://edge2.roarzone.net:8447/roarzone/edge5/jamuna-tv/index.m3u8?token=
-#EXTINF:-1 group-title="BANGLA NEWS", JAMUNA-TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 #EXTINF:-1 group-title="BANGLA NEWS", SOMOY-TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+https://edge2.roarzone.net:8447/roarzone/edge3/somoy_tv/index.m3u8?token=
 #EXTINF:-1 group-title="BANGLA NEWS", EKATTOR-TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
+https://edge2.roarzone.net:8447/roarzone/edge5/ekattor-tv/index.m3u8?token=
 #EXTINF:-1 group-title="BANGLA NEWS", CHANNEL-24
-https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
+https://edge2.roarzone.net:8447/roarzone/edge5/channel-24/index.m3u8?token=
 #EXTINF:-1 group-title="BANGLA NEWS", DBC-NEWS
-https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
+https://edge2.roarzone.net:8447/roarzone/edge5/dbc-news/index.m3u8?token=
 #EXTINF:-1group-title="BANGLA NEWS" ,INDEPENDENT-TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
+https://edge2.roarzone.net:8447/roarzone/edge5/independent-tv/index.m3u8?token=
 #EXTINF:-1 group-title="BANGLA NEWS" ,EKHON-TV
 https://edge2.roarzone.net:8447/roarzone/edge5/ekhon-tv/index.m3u8?token=
 #EXTINF:-1 group-title="BANGLA NEWS", NEWS-24
-https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
+https://edge2.roarzone.net:8447/roarzone/edge5/news-24-bd/index.m3u8?token=
 #EXTINF:-1 group-title="BANGLA NEWS",ATN-NEWS
-https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
+https://edge2.roarzone.net:8447/roarzone/edge5/atn-news/index.m3u8?token=
 #EXTINF:-1 group-title="BANGLA",BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 #EXTINF:-1 group-title="BANGLA", NAGARIK-TV
