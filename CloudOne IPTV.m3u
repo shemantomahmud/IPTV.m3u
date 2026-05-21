@@ -100,6 +100,8 @@ http://c1live.net:8080/SONY-AATH/tracks-v1a1/mono.m3u8
 https://cdn-4.pishow.tv/live/969/master.m3u8
 #EXTINF:-1 group-title="KOLKATA BANGLA" ,DD BANGLA
 https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2e9e32a4-c4f7-49c3-96d6-c4e3660c7e3f/2.m3u8
+#EXTINF:-1 group-title="BANGLA MOVIE",TOFFEE-MOVIES
+https://edge2.roarzone.net:8447/roarzone/edge3/toffee_movie/index.m3u8
 #EXTINF:-1 group-title="BANGLA MOVIE",JALSHA-MOVIES-HD
 http://c1live.net:8080/JALSHA-MOVIES-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="BANGLA MOVIE",ASIANNET-MOVIES
@@ -113,13 +115,15 @@ https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8
 #EXTINF:-1 group-title="BANGLA MOVIE",TARA BANGLA MOVIES
 http://103.145.48.150:90/laosat24/taratv/index.m3u8
 #EXTINF:-1 group-title="INDIAN MOVIE" ,SONY-MAX-HD
-http://stvlive.net:8080/sonymax/tracks-v1a1/mono.m3u8
+http://103.99.249.139/sonymax/index.m3u8
+#EXTINF:-1 group-title="INDIAN MOVIE" ,SONY-MAX2
+https://edge2.roarzone.net:8447/roarzone/edge3/sonymax_2/index.m3u8
 #EXTINF:-1 group-title="INDIAN MOVIE" ,ZEE-CINEMA-HD
-http://c1live.net:8080/ZEE-BANGLA-CINEMA/tracks-v1a1/mono.m3u8
+http://103.99.249.139/zeecinema/index.m3u8
 #EXTINF:-1 group-title="INDIAN MOVIE"  ,COLORS-CINEPLEX
 http://c1live.net:8080/COLORS-CINEPLEX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="INDIAN MOVIE" , STAR-GOLD-HD
-http://103.229.254.25:7001/play/a0dd/index.m3u8
+http://103.99.249.139/stargold/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="INDIAN MOVIE" , STAR-GOLD2-HD
 http://103.229.254.25:7001/play/a0d0/index.m3u8
 #EXTINF:-1 group-title="INDIAN MOVIE" , STAR-GOLD SELECT
