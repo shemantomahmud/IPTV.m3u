@@ -1,77 +1,65 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="BANGLA NEWS", JAMUNA-TV
-https://edge2.roarzone.net:8447/roarzone/edge5/jamuna-tv/index.m3u8?token=
-#EXTINF:-1 group-title="BANGLA NEWS", SOMOY-TV
-https://edge2.roarzone.net:8447/roarzone/edge3/somoy_tv/index.m3u8?token=
-#EXTINF:-1 group-title="BANGLA NEWS", EKATTOR-TV
-https://edge2.roarzone.net:8447/roarzone/edge5/ekattor-tv/index.m3u8?token=
-#EXTINF:-1 group-title="BANGLA NEWS", CHANNEL-24
-https://edge2.roarzone.net:8447/roarzone/edge5/channel-24/index.m3u8?token=
-#EXTINF:-1 group-title="BANGLA NEWS", DBC-NEWS
-https://edge2.roarzone.net:8447/roarzone/edge5/dbc-news/index.m3u8?token=
+#EXTINF:-1 group-title="BANGLA NEWS", JAMUNA-TV-HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
+#EXTINF:-1 group-title="BANGLA NEWS", SOMOY-TV-HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+#EXTINF:-1 group-title="BANGLA NEWS", EKATTOR-TV-HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
+#EXTINF:-1 group-title="BANGLA NEWS", CHANNEL-24-HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
+#EXTINF:-1 group-title="BANGLA NEWS", DBC-NEWS-HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
 #EXTINF:-1group-title="BANGLA NEWS" ,INDEPENDENT-TV
-https://edge2.roarzone.net:8447/roarzone/edge5/independent-tv/index.m3u8?token=
-#EXTINF:-1 group-title="BANGLA NEWS" ,EKHON-TV
-https://edge2.roarzone.net:8447/roarzone/edge5/ekhon-tv/index.m3u8?token=
-#EXTINF:-1 group-title="BANGLA NEWS", NEWS-24
-https://edge2.roarzone.net:8447/roarzone/edge5/news-24-bd/index.m3u8?token=
+https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
+#EXTINF:-1 group-title="BANGLA NEWS" ,EKHON-TV-HD
+http://c1live.net:8080/EKHON-TV-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="BANGLA NEWS", NEWS-24-HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
 #EXTINF:-1 group-title="BANGLA NEWS",ATN-NEWS
-https://edge2.roarzone.net:8447/roarzone/edge5/atn-news/index.m3u8?token=
+https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
 #EXTINF:-1 group-title="BANGLA",BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+#EXTINF:-1 tvg-name="NRBTV" group-title="BANGLA",NRBTV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/nrb-eu.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="BANGLA", NAGARIK-TV
 http://c1live.net:8080/NAGARIK-TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="BANGLA", ME-TV
-https://iptvbd.live/metv1080/1080.m3u8
-#EXTINF:-1 group-title="BANGLA",DESHE BIDESHE
+#EXTINF:-1 group-title="BANGLA",Deshe Bideshe
 https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
-#EXTINF:-1 group-title="BANGLA",DESHI-TV
+#EXTINF:-1 group-title="BANGLA",Deshi TV
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
-#EXTINF:-1 group-title="BANGLA" ,SA-TV
-https://tvsen6.aynaott.com/satv/index.m3u8
-#EXTINF:-1 group-title="BANGLA" ,GAZI-TV
-https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8
+#EXTINF:-1 group-title="BANGLA" ,SA-TV-HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8
 #EXTINF:-1 group-title="BANGLA" ,BANGLAVISION
-https://edge2.roarzone.net:8447/roarzone/edge5/bangla-vision/index.m3u8?token=
-103.175.242.10:8080/banglavision/index.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 #EXTINF:-1 group-title="BANGLA", ATN-BANGLA
-https://tvsen5.aynaott.com/atnbangla/index.m3u8
-#EXTINF:-1 group-title="BANGLA" ,DESH-TV
-https://tvsen6.aynaott.com/deshtv/index.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
+#EXTINF:-1 group-title="BANGLA" ,DESH-TV-HD
+http://c1live.net:8080/DESH-TV-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="BANGLA" ,MAASRANGA-TV-HD
+http://c1live.net:8080/MAASRANGA-TV-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="BANGLA" ,DURONTO-TV-HD
+http://c1live.net:8080/DURONTO-TV-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="BANGLA", DEEPTO-TV
-https://tvsen5.aynaott.com/DeeptoTVHD/index.m3u8
+https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 #EXTINF:-1 group-title="BANGLA", CHANNEL-9
-https://tvsen6.aynaott.com/channel9/index.m3u8
-#EXTINF:-1 group-title="BANGLA" ,CHANNEL-I
-https://tvsen6.aynaott.com/channeli/index.m3u8
-#EXTINF:-1 group-title="BANGLA" ,R-TV
-https://tvsen5.aynaott.com/RtvHD/index.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
+#EXTINF:-1 group-title="BANGLA" ,CHANNEL-I-HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 #EXTINF:-1 group-title="BANGLA" ,EKUSHEY-TV
-https://tvsen6.aynaott.com/etv/index.m3u8
-#EXTINF:-1 group-title="BANGLA" ,ANANDA-TV
-https://tvsen6.aynaott.com/anandatv/index.m3u8
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:-1 group-title="BANGLA" ,MOHONA-TV
+http://c1live.net:8080/MOHONA-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="BANGLA" ,NTV-HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
-https://tvsen5.aynaott.com/ntvbd/index.m3u8
-#EXTINF:-1 group-title="BANGLA" ,MOHONA-TV
-https://tvsen6.aynaott.com/mohonatv/index.m3u8
-#EXTINF:-1 group-title="BANGLA" ,MAASRANGA-TV
-https://tvsen5.aynaott.com/maasrangatv/index.m3u8
-#EXTINF:-1 group-title="BANGLA" ,DURONTO-TV
-https://tvsen6.aynaott.com/durontotv-live/index.m3u8
+#EXTINF:-1 group-title="BANGLA" ,NTV-UK
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8
 #EXTINF:-1 group-title="BANGLA" ,Asian-TV
-https://tvsen6.aynaott.com/asiantv/index.m3u8
+http://c1live.net:8080/Asian-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="BANGLA" ,NEXUS-TV
 http://c1live.net:8080/NEXUS-TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="BANGLA" ,MY-TV
-https://tvsen6.aynaott.com/mytv/index.m3u8
 #EXTINF:-1 group-title="BANGLA" ,BOISHAKHI-TV-HD
-https://tvsen6.aynaott.com/boishakhitv/index.m3u8
-#EXTINF:-1 group-title="BANGLA" ,BIJOY-TV
-https://tvsen6.aynaott.com/bijoytv/index.m3u8
-#EXTINF:-1 group-title="BANGLA" ,GLOBAL-TV
-https://tvsen6.aynaott.com/globaltvhd/index.m3u8
+http://c1live.net:8080/BOISHAKHI-TV-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="BANGLA" ,AKASH-BANGLA
 http://c1live.net:8080/AKASH-BANGLA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="BANGLA" ,AMAR BANGLA
@@ -100,8 +88,6 @@ http://c1live.net:8080/SONY-AATH/tracks-v1a1/mono.m3u8
 https://cdn-4.pishow.tv/live/969/master.m3u8
 #EXTINF:-1 group-title="KOLKATA BANGLA" ,DD BANGLA
 https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2e9e32a4-c4f7-49c3-96d6-c4e3660c7e3f/2.m3u8
-#EXTINF:-1 group-title="BANGLA MOVIE",TOFFEE-MOVIES
-https://edge2.roarzone.net:8447/roarzone/edge3/toffee_movie/index.m3u8
 #EXTINF:-1 group-title="BANGLA MOVIE",JALSHA-MOVIES-HD
 http://c1live.net:8080/JALSHA-MOVIES-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="BANGLA MOVIE",ASIANNET-MOVIES
@@ -115,19 +101,13 @@ https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8
 #EXTINF:-1 group-title="BANGLA MOVIE",TARA BANGLA MOVIES
 http://103.145.48.150:90/laosat24/taratv/index.m3u8
 #EXTINF:-1 group-title="INDIAN MOVIE" ,SONY-MAX-HD
-http://103.99.249.139/sonymax/index.m3u8
-#EXTINF:-1 group-title="INDIAN MOVIE" ,SONY-MAX2
-https://edge2.roarzone.net:8447/roarzone/edge3/sonymax_2/index.m3u8
+http://c1live.net:8080/SONY-MAX-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="INDIAN MOVIE" ,ZEE-CINEMA-HD
-http://103.99.249.139/zeecinema/index.m3u8
+http://c1live.net:8080/ZEE-BANGLA-CINEMA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="INDIAN MOVIE"  ,COLORS-CINEPLEX
 http://c1live.net:8080/COLORS-CINEPLEX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="INDIAN MOVIE" , STAR-GOLD-HD
-http://103.99.249.139/stargold/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="INDIAN MOVIE" , STAR-GOLD2-HD
-http://103.229.254.25:7001/play/a0d0/index.m3u8
-#EXTINF:-1 group-title="INDIAN MOVIE" , STAR-GOLD SELECT
-http://103.229.254.25:7001/play/a032/index.m3u8
+http://c1live.net:8080/STAR-GOLD-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="INDIAN MOVIE" ,B4U Movies
 https://cdnb4u.wiseplayout.com/B4U_Movies/HD1080/HD1080.m3u8
 #EXTINF:-1 group-title="INDIAN MOVIE" ,Bollywood Movies
@@ -148,8 +128,6 @@ https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
 https://cdn-2.pishow.tv/live/227/master.m3u8
 #EXTINF:-1 group-title="INDIAN MOVIE",The Movie Club
 https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/SBUM/RunnTV/BollyFlix_IN/BollyFlix_IN.m3u8
-#EXTINF:-1 group-title="INDIAN MOVIE",9X JALWA
-https://tvsen6.aynaott.com/9xjalwa/index.m3u8
 #EXTINF:-1 group-title="INDIAN",SONY-TV
 http://217.20.112.199/sethd/index.m3u8
 #EXTINF:-1 group-title="INDIAN", STAR-PLUS-HD
@@ -177,11 +155,9 @@ https://fl1.moveonjoy.com/Axs_TV/index.m3u8
 #EXTINF:-1 group-title="MUSIC",SANGEET BANGLA
 https://cdn-4.pishow.tv/live/1143/master.m3u8
 #EXTINF:-1 group-title="MUSIC" ,MTV
-https://tvsen6.aynaott.com/mtv/index.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY",TLC HD
-https://tvsen6.aynaott.com/tlc_hd/index.m3u8
+http://c1live.net:8080/MTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY",NAT-GEO HD
-https://tvsen6.aynaott.com/natgeo/index.m3u8
+http://151.80.18.177:86/National_Geo_HD/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY",NAT-GEO WILD
 http://143.244.60.30/Nat_Geo_Wild/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY",BBC Earth 
@@ -190,10 +166,7 @@ https://d3u3pfhhvuad9k.cloudfront.net/playlist/amg00793-bbcstudios-bbcearta-lgus
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-tcl/playlist.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY",LUXELL
 https://nomawnoijl.gpcdn.net/akash/luxell/playlist.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY", DISCOVERY
-http://stvlive.net:8080/discovery/index.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY", DISCOVERY FAMILY
-https://tvsen5.aynaott.com/discoveryfamily/index.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY", DISCOVERY-LIFE
 #EXTINF:-1 group-title="DOCUMENTARY",HISTOIRE HD
 http://151.80.18.177:86/Histoire/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY",TRUE Stories
@@ -203,15 +176,13 @@ http://151.80.18.177:86/TF1_HD/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY",HISTORY-TV-HD
 http://c1live.net:8080/HISTORY-TV-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY",Travel XP
-https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+http://c1live.net:8080/PEACE-TV-BANGLA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY",Wild Earth
 https://wildearth-plex.amagi.tv/master.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY",Intelligence
 https://nomawnoijl.gpcdn.net/akash/intelligence/playlist.m3u8
 #EXTINF:-1 group-title="HOLLYWOOD MOVIE", STAR-MOVIES-HD
 http://c1live.net:8080/STAR-MOVIES-HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="HOLLYWOOD MOVIE", STAR-WORLD
-https://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
 #EXTINF:-1 group-title="HOLLYWOOD MOVIE",RTL9 HD
 http://151.80.18.177:86/RTL9/index.m3u8
 #EXTINF:-1 group-title="HOLLYWOOD MOVIE",Movies Thriller
