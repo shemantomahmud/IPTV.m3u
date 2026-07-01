@@ -1,11 +1,11 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="BANGLA NEWS", JAMUNA-TV-HD
-https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
+https://bldcmprod-cdn.toffeelive.com/cdn/live/jamuna_tv/playlist.m3u8
 #EXTINF:-1 group-title="BANGLA NEWS", SOMOY-TV-HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 #EXTINF:-1 group-title="BANGLA NEWS", EKATTOR-TV-HD
-https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
+https://bldcmprod-cdn.toffeelive.com/cdn/live/ekattor_tv/playlist.m3u8
 #EXTINF:-1 group-title="BANGLA NEWS", CHANNEL-24-HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 #EXTINF:-1 group-title="BANGLA NEWS", DBC-NEWS-HD
@@ -13,11 +13,11 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
 #EXTINF:-1group-title="BANGLA NEWS" ,INDEPENDENT-TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 #EXTINF:-1 group-title="BANGLA NEWS" ,EKHON-TV-HD
-http://c1live.net:8080/EKHON-TV-HD/tracks-v1a1/mono.m3u8
+https://bldcmprod-cdn.toffeelive.com/cdn/live/ekhon_tv/playlist.m3u8
 #EXTINF:-1 group-title="BANGLA NEWS", NEWS-24-HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
 #EXTINF:-1 group-title="BANGLA NEWS",ATN-NEWS
-https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
+https://bldcmprod-cdn.toffeelive.com/cdn/live/atn_news/playlist.m3u8
 #EXTINF:-1 group-title="BANGLA",BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 #EXTINF:-1 tvg-name="NRBTV" group-title="BANGLA",NRBTV
@@ -101,9 +101,11 @@ https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8
 #EXTINF:-1 group-title="BANGLA MOVIE",TARA BANGLA MOVIES
 http://103.145.48.150:90/laosat24/taratv/index.m3u8
 #EXTINF:-1 group-title="INDIAN MOVIE" ,SONY-MAX-HD
-http://c1live.net:8080/SONY-MAX-HD/tracks-v1a1/mono.m3u8
+https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_max_hd/playlist.m3u8
+#EXTINF:-1 group-title="INDIAN MOVIE" ,SONY-MAX2-HD
+https://bldcmprod-cdn.toffeelive.com/cdn/live/sonymax_2/playlist.m3u8
 #EXTINF:-1 group-title="INDIAN MOVIE" ,ZEE-CINEMA-HD
-http://c1live.net:8080/ZEE-BANGLA-CINEMA/tracks-v1a1/mono.m3u8
+https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_cinema_hd/playlist.m3u8
 #EXTINF:-1 group-title="INDIAN MOVIE"  ,COLORS-CINEPLEX
 http://c1live.net:8080/COLORS-CINEPLEX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="INDIAN MOVIE" , STAR-GOLD-HD
@@ -129,9 +131,13 @@ https://cdn-2.pishow.tv/live/227/master.m3u8
 #EXTINF:-1 group-title="INDIAN MOVIE",The Movie Club
 https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/SBUM/RunnTV/BollyFlix_IN/BollyFlix_IN.m3u8
 #EXTINF:-1 group-title="INDIAN",SONY-TV
-http://217.20.112.199/sethd/index.m3u8
+https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyentertainmnt_hd/playlist.m3u8
+#EXTINF:-1 group-title="INDIAN",SONY-TV
+https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_entertainment/playlist.m3u8
 #EXTINF:-1 group-title="INDIAN", STAR-PLUS-HD
 http://c1live.net:8080/STAR-PLUS-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="INDIAN",ZEE-TV
+https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_tv_hd/playlist.m3u8
 #EXTINF:-1 group-title="INDIAN", COLORS-HD
 http://c1live.net:8080/COLORS-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="INDIAN" ,ARY-ZINDAGI
