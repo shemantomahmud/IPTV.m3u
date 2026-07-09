@@ -1,9 +1,9 @@
 #EXTINF:-1 group-title="BANGLA NEWS", JAMUNA-TV-HD
-http://c1live.net:8080/JAMUNA-TV-HD/tracks-v1a1/mono.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 #EXTINF:-1 group-title="BANGLA NEWS", SOMOY-TV-HD
 http://c1live.net:8080/SOMOY-TV-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="BANGLA NEWS", EKATTOR-TV-HD
-http://c1live.net:8080/EKATTOR-TV-HD/tracks-v1a1/mono.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 #EXTINF:-1 group-title="BANGLA NEWS", CHANNEL-24-HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 #EXTINF:-1 group-title="BANGLA NEWS", CHANNEL-1-HD
