@@ -1,11 +1,13 @@
 #EXTINF:-1 group-title="BANGLA NEWS", JAMUNA-TV-HD
-https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
+http://c1live.net:8080/JAMUNA-TV-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="BANGLA NEWS", SOMOY-TV-HD
-https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+http://c1live.net:8080/SOMOY-TV-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="BANGLA NEWS", EKATTOR-TV-HD
-https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
+http://c1live.net:8080/EKATTOR-TV-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="BANGLA NEWS", CHANNEL-24-HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
+#EXTINF:-1 group-title="BANGLA NEWS", CHANNEL-1-HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 #EXTINF:-1 group-title="BANGLA NEWS", DBC-NEWS-HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
 #EXTINF:-1group-title="BANGLA NEWS" ,INDEPENDENT-TV
@@ -18,8 +20,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
 #EXTINF:-1 group-title="BANGLA",BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
-#EXTINF:-1 tvg-name="NRBTV" group-title="BANGLA",NRBTV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/nrb-eu.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="BANGLA", NAGARIK-TV
 http://c1live.net:8080/NAGARIK-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="BANGLA",Deshe Bideshe
@@ -33,11 +33,9 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 #EXTINF:-1 group-title="BANGLA", ATN-BANGLA
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 #EXTINF:-1 group-title="BANGLA" ,DESH-TV-HD
-http://c1live.net:8080/DESH-TV-HD/tracks-v1a1/mono.m3u8
+https://bozztv.com/rongo/rongo-DeshTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="BANGLA" ,MAASRANGA-TV-HD
-http://c1live.net:8080/MAASRANGA-TV-HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="BANGLA" ,DURONTO-TV-HD
-http://c1live.net:8080/DURONTO-TV-HD/tracks-v1a1/mono.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 #EXTINF:-1 group-title="BANGLA", DEEPTO-TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 #EXTINF:-1 group-title="BANGLA", CHANNEL-9
@@ -46,12 +44,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 #EXTINF:-1 group-title="BANGLA" ,EKUSHEY-TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1 group-title="BANGLA" ,MOHONA-TV
-http://c1live.net:8080/MOHONA-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="BANGLA" ,NTV-HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
-#EXTINF:-1 group-title="BANGLA" ,NTV-UK
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8
 #EXTINF:-1 group-title="BANGLA" ,Asian-TV
 http://c1live.net:8080/Asian-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="BANGLA" ,NEXUS-TV
@@ -66,8 +60,6 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8
 #EXTINF:-1 group-title="ISLAMIC",PEACE-TV BANGLA
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=s7AaNdTzDE2912wNcPLejQ
-#EXTINF:-1 group-title="ISLAMIC",PEACE-TV ENGLISH
-https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
 #EXTINF:-1 group-title="ISLAMIC",Madani Tv
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
 #EXTINF:-1 group-title="ISLAMIC",Quran TV
