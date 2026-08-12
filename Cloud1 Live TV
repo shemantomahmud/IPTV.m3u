@@ -1,12 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Jamuna_TV_logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="BANGLA NEWS", JAMUNA-TV
+#EXTINF:-1 tvg-logo="https://jamunagroup.com.bd/company-images/1662487622-mdshamimislam.png" group-title="BANGLA NEWS", JAMUNA-TV
 http://c1live.net:8080/JAMUNA-TV-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c4/SOMOY_TV_Logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="BANGLA NEWS", SOMOY-TV
 http://c1live.net:8080/SOMOY-TV-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/Ekattor_TV_logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="BANGLA NEWS", EKATTOR-TV
 http://c1live.net:8080/EKATTOR-TV-HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Channel_24_(Bangladeshi_TV_channel)#/media/File:Logo_of_Channel_24_(Bangladesh).svg" group-title="BANGLA NEWS", CHANNEL-24
+#EXTINF:-1 tvg-logo="https://image.pngaaa.com/943/2898943-middle.png" group-title="BANGLA NEWS", CHANNEL-24
 http://c1live.net:8080/CHANNEL-24-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/DBC_News#/media/File:ডিবিসি_নিউজ–এর_লোগো.svg" group-title="BANGLA NEWS", DBC-NEWS
 http://c1live.net:8080/DBC-NEWS-HD/tracks-v1a1/mono.m3u8
