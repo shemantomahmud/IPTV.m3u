@@ -12,9 +12,9 @@ http://c1live.net:8080/CHANNEL-24-HD/tracks-v1a1/mono.m3u8
 http://c1live.net:8080/DBC-NEWS-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/independent.png" group-title="BANGLA NEWS",INDEPENDENT-TV
 http://c1live.net:8080/INDEPENDENT-TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/jamunatv-logo.png" group-title="BANGLA NEWS",EKHON-TV-HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c5/Ekhon_Logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="BANGLA NEWS",EKHON-TV-HD
 http://c1live.net:8080/EKHON-TV-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/news24.png" group-title="BANGLA NEWS", NEWS-24-HD
 http://c1live.net:8080/NEWS-24-HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/atnnews.png group-title="BANGLA NEWS",ATN-NEWS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/ATN_News_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="BANGLA NEWS",ATN-NEWS
 http://c1live.net:8080/ATN-NEWS/tracks-v1a1/mono.m3u8
