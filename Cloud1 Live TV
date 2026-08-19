@@ -7,7 +7,7 @@ http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="BANGLA NEWS", EKATTOR-TV
 http://103.165.93.31:8095/ekattorTv/index.m3u8
 #EXTINF:-1 group-title="BANGLA NEWS", CHANNEL-24
-http://103.165.93.31:8095/channel24/index.m3u8
+http://c1live.net:8080/CHANNEL-24-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="BANGLA NEWS", DBC-NEWS
 http://c1live.net:8080/DBC-NEWS-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="BANGLA NEWS",INDEPENDENT-TV
