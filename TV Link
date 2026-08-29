@@ -1,10 +1,22 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="BANGLA NEWS", SOMOY TV
-http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="BANGLA NEWS", CHANNEL 24
-http://103.165.93.31:8095/channel24/index.m3u8
-#EXTINF:-1 group-title="BANGLA NEWS", EKATTOR TV
-http://103.165.93.31:8095/ekattorTv/index.m3u8
-#EXTINF:-1 group-title="BANGLA NEWS", JAMUNA TV
-http://103.165.93.31:8095/jamunaTv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/jamunatv-logo.png" group-title="BANGLA NEWS", JAMUNA-TV-HD
+http://c1live.net:8080/JAMUNA-TV-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/somoytv.png" group-title="BANGLA NEWS", SOMOY-TV-HD
+http://c1live.net:8080/SOMOY-TV-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/ekattortv.png" group-title="BANGLA NEWS", EKATTOR-TV-HD
+https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8
+#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/channel24.png" group-title="BANGLA NEWS", CHANNEL-24-HD
+http://c1live.net:8080/CHANNEL-24-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/dbcnews.png" group-title="BANGLA NEWS", DBC-NEWS-HD
+http://c1live.net:8080/DBC-NEWS-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/independent.png" group-title="BANGLA NEWS",INDEPENDENT-TV
+http://c1live.net:8080/INDEPENDENT-TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/jamunatv-logo.png" group-title="BANGLA NEWS",EKHON-TV-HD
+https://tvsen6.aynaott.com/fbgZV3X17hwWcyfZ4pdb/index.m3u8
+#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/news24.png" group-title="BANGLA NEWS", NEWS-24-HD
+http://c1live.net:8080/NEWS-24-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/atnnews.png” group-title="BANGLA NEWS",ATN-NEWS
+https://tvsen6.aynaott.com/da6WMXAk/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.btvlive.gov.bd/_next/image?url=https%3A%2F%2Fd38ll44lbmt52p.cloudfront.net%2Fcms%2Fchannel_poster%2F1676193167149_3.png&w=1920&q=75" group-title="BANGLA NEWS", BTV-CTG
+https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8
