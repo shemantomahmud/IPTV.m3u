@@ -9,7 +9,7 @@ https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/channel24.png" group-title="BANGLA NEWS", CHANNEL-24-HD
 http://c1live.net:8080/CHANNEL-24-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/dbcnews.png" group-title="BANGLA NEWS", DBC-NEWS-HD
-http://c1live.net:8080/DBC-NEWS-HD/tracks-v1a1/mono.m3u8
+http://tvn3.chowdhury-shaheb.com/dbc/index.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/independent.png" group-title="BANGLA NEWS",INDEPENDENT-TV
 http://c1live.net:8080/INDEPENDENT-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/jamunatv-logo.png" group-title="BANGLA NEWS",EKHON-TV-HD
@@ -20,3 +20,5 @@ http://c1live.net:8080/NEWS-24-HD/tracks-v1a1/mono.m3u8
 https://tvsen6.aynaott.com/da6WMXAk/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.btvlive.gov.bd/_next/image?url=https%3A%2F%2Fd38ll44lbmt52p.cloudfront.net%2Fcms%2Fchannel_poster%2F1676193167149_3.png&w=1920&q=75" group-title="BANGLA NEWS", BTV-CTG
 https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ijuJfmd.png" group-title="BANGLA NEWS", NEWS-21
+https://iptv-org.github.io/channels/bd/News21BanglaTV#SD
