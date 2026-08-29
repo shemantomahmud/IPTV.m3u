@@ -12,7 +12,8 @@ http://c1live.net:8080/CHANNEL-24-HD/tracks-v1a1/mono.m3u8
 http://tvn3.chowdhury-shaheb.com/dbc/index.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/independent.png" group-title="BANGLA NEWS",INDEPENDENT-TV
 http://c1live.net:8080/INDEPENDENT-TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/jamunatv-logo.png" group-title="BANGLA NEWS",EKHON-TV-HD
+#EXTINF:-1 tvg-logo="	
+https://i.imgur.com/Qbt6q4z.png" group-title="BANGLA NEWS",EKHON-TV-HD
 https://tvsen6.aynaott.com/fbgZV3X17hwWcyfZ4pdb/index.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/news24.png" group-title="BANGLA NEWS", NEWS-24-HD
 http://c1live.net:8080/NEWS-24-HD/tracks-v1a1/mono.m3u8
