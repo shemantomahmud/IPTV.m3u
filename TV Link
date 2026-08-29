@@ -9,14 +9,14 @@ https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/channel24.png" group-title="BANGLA NEWS", CHANNEL-24-HD
 http://c1live.net:8080/CHANNEL-24-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/dbcnews.png" group-title="BANGLA NEWS", DBC-NEWS-HD
-http://tvn3.chowdhury-shaheb.com/dbc/index.m3u8
+http://c1live.net:8080/DBC-NEWS-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/independent.png" group-title="BANGLA NEWS",INDEPENDENT-TV
 http://c1live.net:8080/INDEPENDENT-TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qbt6q4z.png" group-title="BANGLA NEWS",EKHON-TV-HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tRrDh6z.png" group-title="BANGLA NEWS",EKHON-TV-HD
 https://tvsen6.aynaott.com/fbgZV3X17hwWcyfZ4pdb/index.m3u8
 #EXTINF:-1 tvg-logo="http://c1live.net/img/channels/news24.png" group-title="BANGLA NEWS", NEWS-24-HD
 http://c1live.net:8080/NEWS-24-HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://c1live.net/img/channels/atnnews.png” group-title="BANGLA NEWS",ATN-NEWS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4qZQKjo.png” group-title="BANGLA NEWS",ATN-NEWS
 https://tvsen6.aynaott.com/da6WMXAk/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ce2cG8r.png" group-title="BANGLA NEWS", BTV-CTG
 https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8
